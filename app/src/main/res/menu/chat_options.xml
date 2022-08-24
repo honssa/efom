@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/remove_user"
+        android:title="Remove user" />
+    <item android:id="@+id/add_user"
+        android:title="Add user" />
+    <item android:id="@+id/exit_chat"
+        android:title="Exit chat" />
+    <item android:id="@+id/change_chat_name"
+        android:title="Change chat name" />
+</menu>

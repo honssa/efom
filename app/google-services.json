@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255614700895",
+    "project_id": "psi-77eb4",
+    "storage_bucket": "psi-77eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255614700895:android:4b740e311a0b19677bfaea",
+        "android_client_info": {
+          "package_name": "com.example.psi_tt_lagares_otero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255614700895-nl5f0dkrupdpelsf293dhthvjjepvbef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPc9f7UI00mR7efMYprGgqA-pCH2u5XwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255614700895-nl5f0dkrupdpelsf293dhthvjjepvbef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
